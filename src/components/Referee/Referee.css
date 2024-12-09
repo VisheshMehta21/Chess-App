@@ -1,0 +1,10 @@
+.vertical-container {
+    display: flex;
+    flex-direction: vertical;
+    gap: 10px;
+  }
+
+.total-turns {
+    color: azure;
+    margin-top: 20%;
+}
